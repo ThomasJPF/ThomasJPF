@@ -18,7 +18,7 @@
 
 <br><br>
 
-## Contact
+<!-- ## Contact
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/ThomasJPF" target="_blank">
@@ -36,7 +36,7 @@
 <a href="https://youtube.com/ThomasJPF" target="_blank">
  <img align="center" src="https://img.shields.io/badge/ThomasJPF?style=flat&logo=youtube" alt="youtube"/>
 </a>
-</p>
+</p>-->
 
 <!--
 **ThomasJPF/ThomasJPF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
