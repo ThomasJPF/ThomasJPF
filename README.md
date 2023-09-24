@@ -2,7 +2,7 @@
 
 <img align="right" heigth="598em" src="https://raw.githubusercontent.com/gist/ThomasJPF/a498b9b13f2013b59862ba05931a3af5/raw/e795ff38bb870f98b8115e3d83196a9ff5cdf824/githhubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thomas Jefferson</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThomasJPF&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThomasJPF&color=green" alt="Profile views" /> </p>
 
 - 🔥 Web Developer Junior & Network analyst focused on helping people
 
