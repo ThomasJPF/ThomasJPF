@@ -7,7 +7,7 @@
 <h3 align="center">Web Developer Junior & Network Analyst, focused on helping people</h3>
 
 <p align="center">
-  <a href="https://github.com/ThomasJPF/repository-name/blob/main/README.md">
+  <a href="https://github.com/ThomasJPF/ThomasJPF/blob/main/README.md">
     <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="30px" alt="Mudar para Português"/>
     <span>Switch to Portuguese</span>
   </a>
