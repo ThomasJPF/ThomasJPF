@@ -1,54 +1,41 @@
-### Hi there 
+<h1 align="center">Olá, eu sou Thomas Jefferson <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-<img align="right" heigth="598em" src="https://raw.githubusercontent.com/gist/ThomasJPF/a498b9b13f2013b59862ba05931a3af5/raw/e795ff38bb870f98b8115e3d83196a9ff5cdf824/githhubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thomas Jefferson</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThomasJPF&color=green" alt="Profile views" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ThomasJPF&color=green" alt="Visualizações do perfil" /> 
+</p>
 
-- 🔥 Web Developer Junior & Network analyst, focused on helping people
+<h3 align="center">Desenvolvedor Web Junior & Analista de Redes, focado em ajudar as pessoas</h3>
 
-<!-- - 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat) -->
+<p align="center">
+  <a href="https://github.com/ThomasJPF/repository-name/blob/main/README_EN.md">
+    <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="30px" alt="Switch to English"/>
+    <span>Mudar para Inglês</span>
+  </a>
+</p>
 
-<!-- - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito) -->
+---
 
-<!-- - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+### 🔥 Sobre Mim
+- 💻 Apaixonado por **Desenvolvimento Web** e **Redes**
+- 🌱 Sempre aprendendo algo novo e com vontade de ajudar os outros a crescer
+- 👨‍🏫 Instrutor focado em ajudar as pessoas a começar sua jornada na programação web
 
-- ⚡ Fun fact **Oneye 😜**
+---
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
-
-<br><br>
-
-<!-- ## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/ThomasJPF" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/ThomasJPF" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ThomasJPF?style=flat&logo=twitter" alt="twitter"/>  
-</a>
+### 🔗 Conecte-se comigo
+<p align="center">
 <a href="https://linkedin.com/in/ThomasJPF" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ThomasJPF?style=flat&logo=linkedin" alt="linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/ThomasJPF" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ThomasJPF?style=flat&logo=instagram" alt="instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://youtube.com/ThomasJPF" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ThomasJPF?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>-->
+</p>
 
-<!--
-**ThomasJPF/ThomasJPF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasJPF&show_icons=true&hide_border=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasJPF&layout=compact&theme=dark"/>
+</p>
