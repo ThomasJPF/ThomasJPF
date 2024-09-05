@@ -7,7 +7,7 @@
 <h3 align="center">Desenvolvedor Web Junior & Analista de Redes, focado em ajudar as pessoas</h3>
 
 <p align="center">
-  <a href="https://github.com/ThomasJPF/repository-name/blob/main/README_EN.md">
+  <a href="https://github.com/ThomasJPF/ThomasJPF/blob/main/README_EN.md">
     <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="30px" alt="Switch to English"/>
     <span>Mudar para Inglês</span>
   </a>
