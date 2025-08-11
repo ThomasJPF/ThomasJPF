@@ -1,35 +1,64 @@
-<h1 align="center">Olá, eu sou Thomas Jefferson <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<!-- Header -->
+<h1 align="center">Thomas Jefferson</h1>
+<p align="center">Full Stack em evolução • foco em entregas estáveis, seguras e bem testadas</p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ThomasJPF&color=green" alt="Visualizações do perfil" /> 
-</p>
-
-<h3 align="center">
-  🔧 Analista de Redes & 💻 "Quase Desenvolvedor", focado em ajudar as pessoas
-</h3>
-
----
-
-### 🔥 Minhas Estatísticas:
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasJPF&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ThomasJPF&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Minhas Contribuições"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasJPF&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
----
-
-### 🔗 Conecte-se comigo
-
+<!-- Stack (badges) -->
 <p align="center">
-<a href="https://www.linkedin.com/in/thomas-j-000342115/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/thomas_fiamett/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,azure,docker,postgres,redis,githubactions,supabase,rabbitmq,py,postman,mysql,linux,grafana,git,azure&perline=9" />
 </p>
+
+---
+
+## Projetos
+
+<table>
+  <tr>
+    <td width="24%">
+      <a href="https://github.com/ThomasJPF/SEU_REPO_API"><b>API Auth + Cache</b></a><br/>
+      <sub>JWT • Redis • Tests</sub>
+    </td>
+    <td width="24%">
+      <a href="https://github.com/ThomasJPF/SEU_REPO_DASH"><b>Dashboard Next.js</b></a><br/>
+      <sub>SSR • Charts • A11y</sub>
+    </td>
+    <td width="24%">
+      <a href="https://github.com/ThomasJPF/SEU_REPO_AUTOMACAO"><b>Automação de Rede</b></a><br/>
+      <sub>Python • Logs • CLI</sub>
+    </td>
+    <td width="24%">
+      <a href="https://github.com/ThomasJPF/SEU_REPO_DS"><b>Design System</b></a><br/>
+      <sub>Tokens • Components</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Opcional: cards de repositórios (descomente e ajuste os nomes)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasJPF&repo=SEU_REPO_API&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThomasJPF&repo=SEU_REPO_DASH&theme=dark&hide_border=true" />
+</p>
+-->
+
+---
+
+## Métricas
+<p align="center">
+  <img height="150" alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=ThomasJPF&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+---
+
+## Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomas-j-000342115/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/thomas_fiamett/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Dicas rápidas:
+- Mantenha só 2–4 projetos no grid e atualize títulos/links.
+- Evite parágrafos longos; priorize badges e cards. --
