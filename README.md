@@ -4,33 +4,33 @@
 
 <!-- Stack (badges) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,azure,docker,postgres,redis,githubactions,supabase,rabbitmq,py,postman,mysql,linux,grafana,git,azure&perline=9" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,docker,postgres,rabbitmq,py,postman,mysql,linux,grafana,git,azure&perline=9" />
 </p>
 
 ---
 
 ## Projetos
 
-<table>
+<!-- <table>
   <tr>
-    <td width="24%">
+    <td width="25%">
       <a href="https://github.com/ThomasJPF/SEU_REPO_API"><b>API Auth + Cache</b></a><br/>
       <sub>JWT • Redis • Tests</sub>
     </td>
-    <td width="24%">
+    <td width="25%">
       <a href="https://github.com/ThomasJPF/SEU_REPO_DASH"><b>Dashboard Next.js</b></a><br/>
       <sub>SSR • Charts • A11y</sub>
     </td>
-    <td width="24%">
+    <td width="25%">
       <a href="https://github.com/ThomasJPF/SEU_REPO_AUTOMACAO"><b>Automação de Rede</b></a><br/>
       <sub>Python • Logs • CLI</sub>
     </td>
-    <td width="24%">
+    <td width="25%">
       <a href="https://github.com/ThomasJPF/SEU_REPO_DS"><b>Design System</b></a><br/>
       <sub>Tokens • Components</sub>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- Opcional: cards de repositórios (descomente e ajuste os nomes)
 <p align="center">
@@ -44,7 +44,7 @@
 ## Métricas
 <p align="center">
   <img height="150" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=ThomasJPF&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+       src="https://github-readme-stats.vercel.app/api?username=ThomasJPF&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2ECC71&text_color=C9D1D9&icon_color=2ECC71&bg_color=00000000" />
 </p>
 
 ---
