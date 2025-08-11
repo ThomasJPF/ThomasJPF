@@ -4,7 +4,7 @@
 
 <!-- Stack (badges) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,docker,postgres,rabbitmq,py,postman,mysql,linux,grafana,git,azure&perline=9" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,docker,postgres,rabbitmq,py,postman,mysql,linux,grafana,git,azure&perline=7" />
 </p>
 
 ---
